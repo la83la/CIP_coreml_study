@@ -1,4 +1,4 @@
-`😀 Use coremltools to convert machine learning models from third-party libraries to the Core ML format.😀`
+`Use coremltools to convert machine learning models from third-party libraries to the Core ML format.😀`
 
 # How to use
 You can use trained models from frameworks like Caffe, Keras, and scikit-learn, among others, and using coremltools, a Python library provided by Apple, you can convert those models to the CoreML format.
